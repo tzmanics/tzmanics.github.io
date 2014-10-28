@@ -1,0 +1,17 @@
+name: tzmanics blog
+
+description: Tara Zvezda Manicsic Blog and Info
+
+author: Tara Z. Manicsic | tzmanics@gmail.com | @tzmanics
+
+category_dir: /category1
+
+url: http://tzmanics.com
+
+markdown:rdiscount
+
+permalink: pretty
+
+hightlighter: pygments
+
+exclude: [README.md]
