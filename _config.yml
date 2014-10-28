@@ -8,7 +8,7 @@ category_dir: /category1
 
 url: http://tzmanics.com
 
-markdown:rdiscount
+markdown: rdiscount
 
 permalink: pretty
 
