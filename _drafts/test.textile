@@ -1,0 +1,10 @@
+---
+layout: post
+title: Test Textile Post
+category: test
+---
+TEST TEXTILE
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam pulvinar nisi sit amet velit rutrum euismod. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris condimentum quis purus eget imperdiet. Integer fermentum velit quam. Aliquam vel tellus facilisis, accumsan tellus quis, maximus justo. Praesent imperdiet leo at ex vestibulum, scelerisque lacinia magna finibus. Nulla ut tincidunt nibh. Maecenas et malesuada mi, at congue libero. Aenean sodales porta aliquet. Pellentesque volutpat vel libero sagittis fringilla. Integer bibendum leo ornare nunc accumsan pulvinar. Suspendisse egestas vestibulum leo id euismod. Vestibulum dictum lacinia metus, ut elementum est.
+
+Suspendisse convallis ipsum sit amet urna viverra viverra. Curabitur pharetra ipsum vel scelerisque congue. Aliquam elementum mauris nunc, eu sagittis justo malesuada vitae. Donec vulputate eu justo at consectetur. Proin quis accumsan ligula. Phasellus semper, arcu at lobortis suscipit, massa metus porta ipsum, ut interdum enim ligula nec augue. Donec ultrices eget nibh nec malesuada. Pellentesque et feugiat dui, in commodo purus. Donec eu ipsum id neque commodo pretium. Phasellus tincidunt tellus et enim imperdiet, non vehicula leo hendrerit. Praesent facilisis eleifend enim, ut laoreet felis rutrum at. Donec finibus eget orci vitae suscipit. Nulla ornare in risus in mattis. Proin varius, felis et gravida imperdiet, sapien arcu consectetur mi, nec egestas purus sapien vel urna.
