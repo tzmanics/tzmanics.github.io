@@ -1,4 +1,3 @@
 tzmanics.com
 ============
-
-personal website for tara manicsic
+Info sheet for Tara Z. Manicsic
